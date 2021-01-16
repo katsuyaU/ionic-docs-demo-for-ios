@@ -1,3 +1,14 @@
+# ionic-docs-demo-for-ios
+
+Build [ionic-team/docs-demo](https://github.com/ionic-team/docs-demo) for iOS.
+
+## How to run in iOS
+
+1. Exec `npm i` and `npm run build:ios`
+2. Click ▶️ in XCode.
+
+---
+
 # Ionic Kitchen Sink
 
 The Ionic Kitchen Sink is a collection of demos of Ionic components.
